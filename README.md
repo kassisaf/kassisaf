@@ -5,7 +5,7 @@
 
 - :briefcase: Frontend dev with a background in test automation
 - :otter: Recently graduated from Cal State Monterey Bay
-- :wheelchair: Web accessibility advocate
+- :accessibility: Web accessibility advocate
 
 ## :hammer_and_wrench: Favorite Tech
 
@@ -21,11 +21,12 @@
 
 ## :star: Projects
 
-### What I'm doing now
+### What I'm working on now
 
-- :student: Brushing up on my algorithms, learning new frontend libs, and game dev using the Godot engine
-- :clock10: Projects coming soon™!
+- :coffee: Brushing up on my algorithms... now in Java!
+- :open_book: Reading Tom Greever's [Articulating Design Decisions](https://www.oreilly.com/library/view/articulating-design-decisions/9781491921555/) to improve my cross-functional communication
+- :atom_symbol: Learning new frontend and UX tools like [Svelte](https://svelte.dev/) and [Storybook](https://storybook.js.org/)
 
-### Top open-source projects I've contributed to
-- :video_game: [darkstar](https://github.com/DarkstarProject/darkstar) - a sever emulator for Final Fantasy XI (now deprecated and forked several times over)
-- :apple: [beets](https://github.com/beetbox/beets) - a media library management system for obsessive music geeks 
+### Open-source projects I've contributed to
+- :video_game: [darkstar](https://github.com/DarkstarProject/darkstar): a reverse-engineered sever emulator for Final Fantasy XI (now deprecated, but foundational to modern forks)
+- :apple: [beets](https://github.com/beetbox/beets): a self-proclaimed "media library management system for obsessive music geeks"
