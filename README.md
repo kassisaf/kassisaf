@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/kassisaf)
 ![GitHub followers](https://img.shields.io/github/followers/kassisaf)
 
-- :briefcase: Frontend dev with a background in test automation
+- :briefcase: Full-stack developer with a background in test automation
 - :otter: Recently graduated from Cal State Monterey Bay
 - :accessibility: Web accessibility advocate
 
